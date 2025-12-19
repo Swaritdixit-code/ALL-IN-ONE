@@ -1,0 +1,9 @@
+{
+  "name": "Life Helper (Smart Aid)",
+  "description": "An all-in-one universal AI life assistant featuring 100 core services across 10 categories including safety, health, education, and professional guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
